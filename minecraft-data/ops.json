@@ -1,0 +1,14 @@
+[
+  {
+    "uuid": "47d57c0b-6e25-3e71-a5b4-e854524afac1",
+    "name": "Muning",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "c5d8e2a4-4553-339d-92a5-dae2ee9a0647",
+    "name": "YaeSaraki",
+    "level": 4,
+    "bypassesPlayerLimit": true
+  }
+]
